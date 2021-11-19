@@ -1,0 +1,43 @@
+.nav {
+  margin: 0 auto;
+  width: 1060px;
+  height: 0 auto;
+}
+
+.head {
+  margin: 0 auto;
+}
+
+.box1 {
+  width: 595px;
+  height: 50px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 50px;
+  text-align: center;
+  color: #0B132A;
+}
+
+.box2 {
+  width: 555px;
+  height: 60px;
+  margin: 0 auto;
+  padding: 0 0 155px 0;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  color: #4F5665;
+}
+
+.footer {
+  width: 1060px;
+  height: 537px;
+}
+/*# sourceMappingURL=main.css.map */
